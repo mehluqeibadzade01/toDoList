@@ -1,0 +1,9 @@
+.task{
+    .checked{
+        text-decoration: line-through;
+    }
+}
+.controls{display:flex;align-items: center;justify-content: space-between;
+
+.filter{margin-right: 5px;cursor: pointer;}
+.active{color: blue;font-size: 15px;}}
